@@ -1,3 +1,6 @@
+/*mobile devices*/
+
+
 h1 {
     text-align: center;
 }
@@ -8,9 +11,23 @@ nav ul {
     text-decoration-line: none;
 }
 
+li {
+    display: inline-block;
+}
+
 div {
     width: 90px;
     height: 90px;
     margin: 3px;
     background-color: black;
 }
+
+
+
+/*tablet devices*/
+
+
+
+
+
+/*desktop devices*/
